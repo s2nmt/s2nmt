@@ -12,7 +12,7 @@
 
 <p align="left">✨ I have several project and libraries in my repo. I hope you find them useful.</p>
 <p align="left">🌱 I’m currently learning Linux kernel for Beaglebone black.</p>
-<p align="left">👯 I’m looking to collaborate on embedded systems and IoT</p>
+<p align="left">💬 Ask me about embedded systems. </p>
 
 ###
 
