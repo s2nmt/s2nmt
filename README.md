@@ -33,6 +33,9 @@
 
 ###
 
+<h2 align="left">Roadmap</h2>
+
+![alt text](image.png)
 <!--
 **s2nmt/s2nmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
