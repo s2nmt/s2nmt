@@ -12,7 +12,7 @@
 <p align="left">⚡ I am looking for new career opportunities related to embedded systems and IoT in Ho Chi Minh City, Vietnam.</p>
 <p align="left">Contact: nguyenminhtuan87201@gmail.com </p>
 <p align="left">✨ I have several project and libraries in my repo. I hope you find them useful.</p>
-<p align="left">🌱 I’m currently learning Linux driver for Beaglebone black.</p>
+<p align="left">🌱 I’m currently working in hardware and software embedded systems.</p>
 <p align="left">💬 Ask me about embedded systems. </p>
 
 ###
